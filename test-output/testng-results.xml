@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="68165" started-at="2018-03-11T17:48:23Z" finished-at="2018-03-11T17:49:31Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="68165" started-at="2018-03-11T17:48:23Z" finished-at="2018-03-11T17:49:31Z">
+      <class name="Redbus.Bus_Search">
+        <test-method status="PASS" signature="Bus_Search_del(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Redbus.Bus_Search@523884b2]" name="Bus_Search_del" duration-ms="16203" started-at="2018-03-11T17:48:24Z" data-provider="Bus_Search" finished-at="2018-03-11T17:48:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Delhi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Dehradun]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[03/15/2018]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[03/16/2018]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Bus_Search_del -->
+        <test-method status="PASS" signature="Bus_Search_del(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Redbus.Bus_Search@523884b2]" name="Bus_Search_del" duration-ms="17689" started-at="2018-03-11T17:48:40Z" data-provider="Bus_Search" finished-at="2018-03-11T17:48:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Goa]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Mumbai]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[03/16/2018]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[03/17/2018]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Bus_Search_del -->
+        <test-method status="PASS" signature="Bus_Search_del(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Redbus.Bus_Search@523884b2]" name="Bus_Search_del" duration-ms="18442" started-at="2018-03-11T17:48:58Z" data-provider="Bus_Search" finished-at="2018-03-11T17:49:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mumbai]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Goa]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[03/17/2018]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[03/18/2018]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Bus_Search_del -->
+        <test-method status="PASS" signature="Bus_Search_del(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Redbus.Bus_Search@523884b2]" name="Bus_Search_del" duration-ms="15235" started-at="2018-03-11T17:49:16Z" data-provider="Bus_Search" finished-at="2018-03-11T17:49:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Jaipur]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Delhi]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[03/18/2018]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[03/19/2018]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Bus_Search_del -->
+      </class> <!-- Redbus.Bus_Search -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
